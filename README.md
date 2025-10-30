@@ -1,7 +1,9 @@
-# issrc_2025_prog1_carrito-v2
+# Práctica: Carrito de Compras V 2.0
+## consigna en el pdf - proyecto en issrc_2025_prog1_carrito-v2
 
+Aspectos de la version 2:
 
-Excelente pregunta 👌 — el **spread operator (`...`)** es una herramienta poderosa en JavaScript, especialmente útil cuando querés **copiar objetos** para evitar modificar los originales (como tus productos del inventario).
+Uso del **spread operator (`...`)** el cual es una herramienta poderosa en JavaScript, especialmente útil cuando querés **copiar objetos** para evitar modificar los originales (como tus productos del inventario).
 
 Vamos a verlo paso a paso **en el contexto de tu carrito** 👇
 
